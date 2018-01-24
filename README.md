@@ -18,3 +18,8 @@ Tier 2:
 - Flatfile datastructure
 Tier 3:
 - SQL Database
+
+!IMPORTANT!
+    -live demo on webserver
+    -Friday 17:30 deadline
+    
