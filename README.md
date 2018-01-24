@@ -9,6 +9,7 @@ Case
 Stappenplan
 
 Online webserver regelen
+Connecten met WinSCP
 
 Tier 1:
 - Fixed responses
@@ -22,4 +23,8 @@ Tier 3:
 !IMPORTANT!
     -live demo on webserver
     -Friday 17:30 deadline
+    
+    
+URL to live demo:
+
     
