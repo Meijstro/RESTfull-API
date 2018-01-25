@@ -14,8 +14,10 @@ Tier 1:
 - Fixed responses
     - What to do with GET requests
     - What to do with POST requests
+
 Tier 2:
 - Flatfile datastructure
+
 Tier 3:
 - SQL Database
 
