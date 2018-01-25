@@ -26,4 +26,4 @@ Tier 3:
     
 URL to live demo:
 
-sjoerd.niks.tv
+www.sjoerd.niks.tv/RESTfull.html
