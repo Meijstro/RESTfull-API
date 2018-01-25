@@ -8,8 +8,7 @@ Case
 
 Stappenplan
 
-Online webserver regelen
-Connecten met WinSCP
+Online webserver and connect it with WinSCP
 
 Tier 1:
 - Fixed responses
