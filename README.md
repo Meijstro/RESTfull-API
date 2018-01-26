@@ -8,7 +8,7 @@ Case
 
 Stappenplan
 
-Online webserver and connect it with WinSCP
+Online webserver and connect it with WinSCP (done)
 
 Tier 1:
 - Fixed responses
