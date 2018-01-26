@@ -26,6 +26,7 @@ Tier 3:
 !IMPORTANT!
     -live demo on webserver
     -Friday 17:30 deadline
+    -Documentation on swagger
     
     
 URL to live demo:
