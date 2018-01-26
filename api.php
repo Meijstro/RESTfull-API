@@ -12,7 +12,8 @@ Welcome <?php echo $_GET["name"]; ?><br>
 Your message is: <?php echo $_GET["message"]; ?>
 
 <!-- fixed response when POST request Create messages -->
-
+<!-- Welcome <?php /*echo $_POST["name"]; ?><br>
+Your message is: <?php echo $_POST["message"]; */?> -->
 
 
 <!-- Tier 2 Flatfile datastructure -->
